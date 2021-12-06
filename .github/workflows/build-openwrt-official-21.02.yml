@@ -14,7 +14,7 @@ on:
     #- cron: '0 17 * * 0'
 
 env:
-  REPO_URL: https://github.com/yusril/openwrt
+  REPO_URL: https://github.com/yusril08/openwrt
   REPO_BRANCH: openwrt-21.02
   FEEDS_CONF: router-config/openwrt-21.02/feeds.conf.default
   CONFIG_FILE: router-config/openwrt-21.02/.config
