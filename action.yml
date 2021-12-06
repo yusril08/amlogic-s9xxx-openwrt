@@ -17,7 +17,7 @@ inputs:
   auto_kernel:
     description: 'Auto use the latest kernel.'
     required: false
-    default: 'true'
+    default: 'false'
   amlogic_size:
     description: 'Choose root size.'
     required: false
